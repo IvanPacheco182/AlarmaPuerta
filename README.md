@@ -48,7 +48,7 @@ Material utilizado:
 ~~~
 
 /*
- create by Oscar Iván Pacheco Vargas
+ created by Oscar Iván Pacheco Vargas
  27/sep/2018
  
  */
