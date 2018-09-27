@@ -121,7 +121,6 @@ void loop(){
 
 ![evidencia](/Img1.jpg)
 ![evidencia](/Img2.jpg)
-![evidencia](/Img3.jpg)
 
 
 ## contacto
